@@ -12,4 +12,5 @@ Pin 8 is a pulled up input, if it is lowered to 0V, all the cards readed will be
 *[11] Lock
 *[12] Lock Sensor (not tested)
 
-
+##Thanks to
+*monkeyboard for the Wiegand-Protocol-Library-for-Arduino
